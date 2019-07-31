@@ -1,0 +1,12 @@
+.main-footer{
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    box-shadow: -2px -2px 1px black;
+    border-radius: 0;
+}
+
+.main-footer-text{
+    color: #FFD700 !important;
+}

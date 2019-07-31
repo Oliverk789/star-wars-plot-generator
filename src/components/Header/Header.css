@@ -1,0 +1,13 @@
+.main-header {
+    box-shadow: 2px 2px 2px black;
+    border-radius: 0 !important;
+}
+
+.main-header-text{
+    font-size: 20px;
+    color: #FFD700;
+}
+
+.main-header-img{
+    width: 120px;
+}

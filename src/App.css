@@ -1,0 +1,9 @@
+html {
+  height: 100%;
+}
+body {
+  min-height: 100%;
+  background-image: url(./assets/background-img.jpg);
+  background-size: cover;
+  font-family: 'Farro', sans-serif;
+}
